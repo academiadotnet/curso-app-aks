@@ -1,2 +1,2 @@
-# curso-app-aks
-Curso Publicando aplicações no Azure Kubernetes services
+# web-container-application
+Coursera Guide Project Web Application Template
